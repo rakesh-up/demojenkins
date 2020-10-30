@@ -1,5 +1,5 @@
 [webservers]
 ansible-test
 
-[app-servers]
+[appservers]
 ansible-test
