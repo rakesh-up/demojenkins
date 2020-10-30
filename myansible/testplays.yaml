@@ -1,6 +1,6 @@
 ---
   # Play1 - WebServer related tasks
-    - name: Play1 - Create apache directories and apacheadm user in web servers
+  - name: Play1 - Create apache directories and apacheadm user in web servers
     hosts: webservers
   #  become: yes
   #  become_user: root
